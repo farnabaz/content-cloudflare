@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^3.16.0",
+    "@nuxt/content": "npm:@nuxt/content-edge@latest",
+    "nuxt": "^3.0.0-rc.8",
+    "wrangler": "2.0.28"
+  }
+}

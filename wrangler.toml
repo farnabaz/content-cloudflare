@@ -1,0 +1,12 @@
+name = "content"
+type = "javascript"
+account_id = ""
+workers_dev = true
+compatibility_date = "2022-04-07"
+main = ".output/server/index.mjs"
+
+[site]
+bucket = ".output/public"
+
+[build]
+command = ""
